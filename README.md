@@ -1,16 +1,8 @@
-# campo_minado
+# CAMPO MINADO
 
-A new Flutter project.
+Inspired on classical minefield, available on Windows.
 
-## Getting Started
+<img src="https://github.com/Gi4nfratti/minefield/assets/32543785/10134e6d-c514-4c93-b97d-d02a59d554ad" width="300" height="500">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# DEMO
+<img src="https://github.com/Gi4nfratti/minefield/assets/32543785/2e48f1da-2c0e-4bfe-9d8d-3abcb751803b" width="300" height="500"/>
